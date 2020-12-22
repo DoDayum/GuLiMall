@@ -1,0 +1,16 @@
+2020-12-13 13:54:48,045 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1603178431705, length=49, md5=b84c4e9d5e670bf4ca97a599761a8246
+
+2020-12-13 13:54:48,047 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1603178795701, length=49, md5=cf5c74cbd2b90e7e31a7ebab80e55745
+
+2020-12-13 13:54:48,047 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1603179281485, length=50, md5=5672fa4e86465befb11b5b38891597e8
+
+2020-12-13 13:54:48,048 INFO [dump-all-ok] mybatis.yml+dev, 1603179935846, length=116, md5=3c8cba7df1687e1fbe635fdfa0352287
+
+2020-12-13 13:54:48,048 INFO [dump-all-ok] datasource.yml+dev, 1605260546199, length=246, md5=c10a34381ea9b0f25758514220c83086
+
+2020-12-13 13:54:48,048 INFO [dump-all-ok] other.yml+dev, 1603180052360, length=154, md5=7666731d3abcec99fb257b743b2ebad8
+
+2020-12-13 13:54:48,048 INFO [dump-all-ok] gulimall-gateway.yml+DEFAULT_GROUP, 1603182327591, length=57, md5=6540f8212907f14f96eddab2231e4aa8
+
+2020-12-13 13:54:48,049 INFO [dump-all-ok] oss.yml+DEFAULT_GROUP, 1603441039274, length=220, md5=0bf76381c7180e9b2d1332811fa4bdea
+

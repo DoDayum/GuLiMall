@@ -1,0 +1,46 @@
+2020-12-19 19:08:23,980 INFO initializing Raft sub-system
+
+2020-12-19 19:08:23,981 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-12-19 19:08:23,986 INFO cache loaded, datum count: 0, current term: 0
+
+2020-12-19 19:08:23,986 INFO finish to load data from disk, cost: 5 ms.
+
+2020-12-19 19:08:23,995 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-12-19 19:08:24,003 INFO raft notifier started
+
+2020-12-19 19:08:23,854 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.126.1","key":"192.168.126.1:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-12-19 19:08:24,061 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.126.1","key":"192.168.126.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-12-19 19:08:24,104 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-12-19 19:08:26,710 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-12-19 19:08:33,860 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.126.1","key":"192.168.126.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-12-19 19:08:33,860 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.126.1","key":"192.168.126.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-12-19 19:08:33,860 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.126.1","key":"192.168.126.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-12-19 19:08:35,919 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.126.1","key":"192.168.126.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-12-19 19:09:19,563 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-coupon
+
+2020-12-19 19:09:28,041 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-gateway
+
+2020-12-19 19:09:32,571 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-member
+
+2020-12-19 19:09:44,712 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-order
+
+2020-12-19 19:09:50,800 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@renren-fast
+
+2020-12-19 19:09:58,993 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-third-party
+
+2020-12-19 19:10:04,068 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-ware
+
+2020-12-19 19:10:12,018 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-product
+
+2020-12-19 19:18:36,639 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimll-search
+

@@ -1,0 +1,252 @@
+{
+  "took" : 26,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 12,
+      "relation" : "eq"
+    },
+    "max_score" : 0.18743339,
+    "hits" : [
+      {
+        "_index" : "gulimall_product",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 0.18743339,
+        "_source" : {
+          "attrs" : [
+            {
+              "attrId" : 2,
+              "attrName" : "入网型号",
+              "attrValue" : "aa"
+            },
+            {
+              "attrId" : 3,
+              "attrName" : "aaa",
+              "attrValue" : "aaa;bbb"
+            }
+          ],
+          "brandId" : 17,
+          "brandImg" : "https://gulimall-baiyu.oss-cn-hangzhou.aliyuncs.com/2020-10-283a1d6b14-d369-440c-8551-71132994561d_德军总部2新巨人游戏原画插画场景角色等艺术设定集 (02-1).jpg",
+          "brandName" : "小米",
+          "catalogId" : 225,
+          "catalogName" : "手机",
+          "hasStock" : true,
+          "hotScore" : 0,
+          "saleCount" : 0,
+          "skuId" : 1,
+          "skuImg" : "https://gulimall-baiyu.oss-cn-hangzhou.aliyuncs.com/2020-11-02/c5b24565-5039-4f50-8cdb-6d831db8b1c8_德军总部2新巨人游戏原画插画场景角色等艺术设定集 (02-1).jpg",
+          "skuPrice" : 1000.0,
+          "skuTitle" : "小米1",
+          "spuId" : 4
+        },
+        "highlight" : {
+          "skuTitle" : [
+            "<b style='color:red'>小米</b>1"
+          ]
+        }
+      },
+      {
+        "_index" : "gulimall_product",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 0.18743339,
+        "_source" : {
+          "attrs" : [
+            {
+              "attrId" : 2,
+              "attrName" : "入网型号",
+              "attrValue" : "aa"
+            },
+            {
+              "attrId" : 3,
+              "attrName" : "aaa",
+              "attrValue" : "aaa;bbb"
+            }
+          ],
+          "brandId" : 17,
+          "brandImg" : "https://gulimall-baiyu.oss-cn-hangzhou.aliyuncs.com/2020-10-283a1d6b14-d369-440c-8551-71132994561d_德军总部2新巨人游戏原画插画场景角色等艺术设定集 (02-1).jpg",
+          "brandName" : "小米",
+          "catalogId" : 225,
+          "catalogName" : "手机",
+          "hasStock" : false,
+          "hotScore" : 0,
+          "saleCount" : 0,
+          "skuId" : 2,
+          "skuImg" : "",
+          "skuPrice" : 2000.0,
+          "skuTitle" : "小米2",
+          "spuId" : 4
+        },
+        "highlight" : {
+          "skuTitle" : [
+            "<b style='color:red'>小米</b>2"
+          ]
+        }
+      }
+    ]
+  },
+  "aggregations" : {
+    "catalog_agg" : {
+      "doc_count_error_upper_bound" : 0,
+      "sum_other_doc_count" : 0,
+      "buckets" : [
+        {
+          "key" : 225,
+          "doc_count" : 12,
+          "catalog_name_agg" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "手机",
+                "doc_count" : 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "attr_agg" : {
+      "doc_count" : 40,
+      "attr_id_agg" : {
+        "doc_count_error_upper_bound" : 0,
+        "sum_other_doc_count" : 0,
+        "buckets" : [
+          {
+            "key" : 2,
+            "doc_count" : 12,
+            "attr_name_agg" : {
+              "doc_count_error_upper_bound" : 0,
+              "sum_other_doc_count" : 0,
+              "buckets" : [
+                {
+                  "key" : "入网型号",
+                  "doc_count" : 12
+                }
+              ]
+            },
+            "attr_value_agg" : {
+              "doc_count_error_upper_bound" : 0,
+              "sum_other_doc_count" : 0,
+              "buckets" : [
+                {
+                  "key" : "aa",
+                  "doc_count" : 12
+                }
+              ]
+            }
+          },
+          {
+            "key" : 3,
+            "doc_count" : 12,
+            "attr_name_agg" : {
+              "doc_count_error_upper_bound" : 0,
+              "sum_other_doc_count" : 0,
+              "buckets" : [
+                {
+                  "key" : "aaa",
+                  "doc_count" : 12
+                }
+              ]
+            },
+            "attr_value_agg" : {
+              "doc_count_error_upper_bound" : 0,
+              "sum_other_doc_count" : 0,
+              "buckets" : [
+                {
+                  "key" : "aaa;bbb",
+                  "doc_count" : 12
+                }
+              ]
+            }
+          },
+          {
+            "key" : 7,
+            "doc_count" : 8,
+            "attr_name_agg" : {
+              "doc_count_error_upper_bound" : 0,
+              "sum_other_doc_count" : 0,
+              "buckets" : [
+                {
+                  "key" : "xxx",
+                  "doc_count" : 8
+                }
+              ]
+            },
+            "attr_value_agg" : {
+              "doc_count_error_upper_bound" : 0,
+              "sum_other_doc_count" : 0,
+              "buckets" : [
+                {
+                  "key" : "aaa",
+                  "doc_count" : 8
+                }
+              ]
+            }
+          },
+          {
+            "key" : 9,
+            "doc_count" : 8,
+            "attr_name_agg" : {
+              "doc_count_error_upper_bound" : 0,
+              "sum_other_doc_count" : 0,
+              "buckets" : [
+                {
+                  "key" : "上市年份",
+                  "doc_count" : 8
+                }
+              ]
+            },
+            "attr_value_agg" : {
+              "doc_count_error_upper_bound" : 0,
+              "sum_other_doc_count" : 0,
+              "buckets" : [
+                {
+                  "key" : "2020;2019",
+                  "doc_count" : 8
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "brand_agg" : {
+      "doc_count_error_upper_bound" : 0,
+      "sum_other_doc_count" : 0,
+      "buckets" : [
+        {
+          "key" : 17,
+          "doc_count" : 12,
+          "brand_img_agg" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "https://gulimall-baiyu.oss-cn-hangzhou.aliyuncs.com/2020-10-283a1d6b14-d369-440c-8551-71132994561d_德军总部2新巨人游戏原画插画场景角色等艺术设定集 (02-1).jpg",
+                "doc_count" : 12
+              }
+            ]
+          },
+          "brand_name_agg" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "小米",
+                "doc_count" : 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

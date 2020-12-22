@@ -1,0 +1,180 @@
+2020-12-13 13:55:07,104 INFO DEFAULT_GROUP@@gulimall-coupon {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 13:55:07,107 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-coupon, ips: 192.168.126.1:7000_true,
+
+2020-12-13 13:55:13,093 INFO DEFAULT_GROUP@@gulimall-member {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 13:55:13,093 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-member, ips: 192.168.126.1:8000_true,
+
+2020-12-13 13:55:23,562 INFO DEFAULT_GROUP@@gulimall-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:9000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 13:55:23,562 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-order, ips: 192.168.126.1:9000_true,
+
+2020-12-13 13:55:31,466 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 13:55:31,466 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 192.168.126.1:8080_true,
+
+2020-12-13 13:55:31,614 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 13:55:31,614 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 13:55:36,182 INFO DEFAULT_GROUP@@gulimall-third-party {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:30000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 13:55:36,182 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.126.1:30000_true,
+
+2020-12-13 13:55:41,850 INFO DEFAULT_GROUP@@gulimall-ware {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:11000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 13:55:41,850 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-ware, ips: 192.168.126.1:11000_true,
+
+2020-12-13 13:55:51,457 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 13:55:51,457 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.126.1:10000_true,
+
+2020-12-13 13:55:51,787 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 13:55:51,787 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 192.168.126.1:88_true,
+
+2020-12-13 14:45:39,579 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 14:45:39,579 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 
+
+2020-12-13 14:45:55,345 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 14:45:55,345 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 14:46:31,320 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 14:48:57,721 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 15:02:16,573 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 15:29:51,656 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:29:51,656 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 
+
+2020-12-13 15:30:03,778 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:30:03,778 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 15:30:13,688 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:30:13,688 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 
+
+2020-12-13 15:30:25,317 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:30:25,317 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 15:30:30,890 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:30:30,890 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 
+
+2020-12-13 15:30:43,628 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:30:43,628 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 15:43:09,371 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:43:09,371 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 
+
+2020-12-13 15:43:22,369 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:43:22,369 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 15:47:27,128 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:47:27,128 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 
+
+2020-12-13 15:47:38,753 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:47:38,753 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 15:48:49,595 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:48:49,595 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 
+
+2020-12-13 15:49:01,162 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 15:49:01,162 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 15:50:24,936 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:12000@DEFAULT@DEFAULT_GROUP@@gulimll-search, region: unknown, msg: client timeout after 15000, last beat: 1607845806199
+
+2020-12-13 15:50:40,046 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-12-13 15:50:40,046 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 
+
+2020-12-13 18:15:52,211 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-coupon, ips: 192.168.126.1:7000_true,
+
+2020-12-13 18:15:53,521 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:30000@DEFAULT@DEFAULT_GROUP@@gulimall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1607854537514
+
+2020-12-13 18:15:53,749 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:8080@DEFAULT@DEFAULT_GROUP@@renren-fast, region: unknown, msg: client timeout after 15000, last beat: 1607854538594
+
+2020-12-13 18:15:53,750 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:10000@DEFAULT@DEFAULT_GROUP@@gulimall-product, region: unknown, msg: client timeout after 15000, last beat: 1607854537606
+
+2020-12-13 18:15:54,028 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:88@DEFAULT@DEFAULT_GROUP@@gulimall-gateway, region: unknown, msg: client timeout after 15000, last beat: 1607854537850
+
+2020-12-13 18:15:54,028 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:11000@DEFAULT@DEFAULT_GROUP@@gulimall-ware, region: unknown, msg: client timeout after 15000, last beat: 1607854538260
+
+2020-12-13 18:15:55,656 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:8000@DEFAULT@DEFAULT_GROUP@@gulimall-member, region: unknown, msg: client timeout after 15000, last beat: 1607854539364
+
+2020-12-13 18:15:56,040 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:9000@DEFAULT@DEFAULT_GROUP@@gulimall-order, region: unknown, msg: client timeout after 15000, last beat: 1607854539760
+
+2020-12-13 18:15:59,179 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-member, ips: 192.168.126.1:8000_false,
+
+2020-12-13 18:16:00,394 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 192.168.126.1:88_false,
+
+2020-12-13 18:16:04,193 INFO service: DEFAULT_GROUP@@gulimall-member {POS} {IP-ENABLED} valid: 192.168.126.1:8000@DEFAULT, region: unknown, msg: client beat ok
+
+2020-12-13 18:16:05,401 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.126.1:88@DEFAULT, region: unknown, msg: client beat ok
+
+2020-12-13 18:16:08,593 INFO DEFAULT_GROUP@@gulimall-third-party {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:30000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-12-13 18:16:08,594 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 
+
+2020-12-13 18:16:08,798 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:10000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-12-13 18:16:08,798 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2020-12-13 18:16:08,804 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-12-13 18:16:08,804 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2020-12-13 18:16:09,060 INFO DEFAULT_GROUP@@gulimall-ware {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.126.1:11000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-12-13 18:16:09,060 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-ware, ips: 
+
+2020-12-13 18:16:09,653 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-order, ips: 192.168.126.1:9000_false,
+
+2020-12-13 18:16:14,676 INFO service: DEFAULT_GROUP@@gulimall-order {POS} {IP-ENABLED} valid: 192.168.126.1:9000@DEFAULT, region: unknown, msg: client beat ok
+
+2020-12-13 18:16:15,499 INFO DEFAULT_GROUP@@gulimall-third-party {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:30000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 18:16:15,499 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.126.1:30000_true,
+
+2020-12-13 18:16:17,584 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 18:16:17,584 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 192.168.126.1:8080_true,
+
+2020-12-13 18:16:17,806 INFO DEFAULT_GROUP@@gulimall-ware {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:11000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 18:16:17,806 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-ware, ips: 192.168.126.1:11000_true,
+
+2020-12-13 18:16:25,462 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 18:16:25,462 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.126.1:10000_true,
+
+2020-12-13 18:17:03,958 INFO DEFAULT_GROUP@@gulimll-search {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.126.1:12000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-13 18:17:03,958 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimll-search, ips: 192.168.126.1:12000_true,
+
+2020-12-13 21:03:28,321 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:30000@DEFAULT@DEFAULT_GROUP@@gulimall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1607864593223
+
+2020-12-13 21:03:28,709 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:88@DEFAULT@DEFAULT_GROUP@@gulimall-gateway, region: unknown, msg: client timeout after 15000, last beat: 1607864592305
+
+2020-12-13 21:03:28,710 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:12000@DEFAULT@DEFAULT_GROUP@@gulimll-search, region: unknown, msg: client timeout after 15000, last beat: 1607864591197
+
+2020-12-13 21:03:28,710 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:11000@DEFAULT@DEFAULT_GROUP@@gulimall-ware, region: unknown, msg: client timeout after 15000, last beat: 1607864590149
+
+2020-12-13 21:03:28,710 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:10000@DEFAULT@DEFAULT_GROUP@@gulimall-product, region: unknown, msg: client timeout after 15000, last beat: 1607864592754
+
+2020-12-13 21:03:28,718 INFO {POS} {IP-DISABLED} valid: 192.168.126.1:8080@DEFAULT@DEFAULT_GROUP@@renren-fast, region: unknown, msg: client timeout after 15000, last beat: 1607864592959
+
